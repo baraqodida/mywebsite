@@ -52,7 +52,7 @@ nav li{
 }
 
 .Boruharo-section{
-    background-image: url("/boruharo.jpg");
+    background-image: url("boruharo.jpg");
     height: 40rem;
     background-position: right;
     background-size: cover;
