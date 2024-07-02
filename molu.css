@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+.clear{
+    clear: both;
+}
+h1{
+    font-size: 2.8rem;
+}
+
+h2{
+    font-size: 3.6rem;
+    padding: 5rem 0rem;
+}
+
+a{
+    color:white;
+    text-decoration: none;
+    font-size: 2.4rem;
+}
+h3{
+    font-size: 2.8rem;
+}
+
+button{
+    font-size: 1.8rem;
+    
+}
+
+nav{
+    background-color: rgb(20, 70, 45);
+    color: white;
+    padding: 3rem;
+}
+nav h1{
+    float: left;
+}
+
+nav ul{
+    float: right;
+    list-style: none;
+}
+nav li{
+    float: left;
+    margin: 0rem 4rem;
+}
+
+.Boruharo-section{
+    background-image: url("/boruharo.jpg");
+    height: 40rem;
+    background-position: right;
+    background-size: cover;
+    text-align: left;
+    color:black;
+    padding-top: 15rem;
+    text-shadow: 3px 3px 3px white;
+    
+}
+.Boruharo-section button{
+    margin: 20px 20px 10px 30px;
+    padding: 2rem 4rem;
+    background-color: rgb(31, 91, 106);
+    color: white;
+    cursor: pointer;
+    float: center;
+}
+.warioguyo-section{
+    text-align: center;
+}
+
+form{
+
+}
+form input,form label,form phone{
+    display: block;
+    font-size: 2.4rem;
+    width: 50%;
+
+}
+form input{
+    margin: 2rem auto;
+    width: 50%;
+}
+form button{
+    margin-bottom: 2rem;
+    color: white;
+    background-color: rgb(32, 87, 98);
+    padding: 15px;
+    cursor: pointer;
+    width: 10%;
+}
